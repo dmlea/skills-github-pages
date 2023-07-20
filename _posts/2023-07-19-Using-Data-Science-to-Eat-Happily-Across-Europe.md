@@ -82,4 +82,4 @@ We've learned that by applying a little data preprocessing and logical reasoning
 
 ## Acknowledgment
 
-Use of map image permiited by Creative Commons (https://creativecommons.org)
+Use of map image permitted by Creative Commons (https://creativecommons.org)
